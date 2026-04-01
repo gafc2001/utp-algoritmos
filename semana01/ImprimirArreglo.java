@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+package semana01;
 
-package com.mycompany.clase02;
-
-/**
- *
- * @author LAB-USR-LCENTRO
- */
 public class ImprimirArreglo {
 
     public static void main(String[] args) {
